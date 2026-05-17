@@ -329,4 +329,4 @@ def download_tdnet_pdfs(date_yyyymmdd: str | None = None) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    download_tdnet_pdfs("20260515")
+    download_tdnet_pdfs()
