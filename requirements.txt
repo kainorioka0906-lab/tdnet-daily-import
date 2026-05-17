@@ -1,0 +1,4 @@
+tdnet
+yfinance
+pandas
+tqdm
